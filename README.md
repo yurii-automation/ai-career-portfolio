@@ -1,4 +1,3 @@
-# ai-career-portfolio
 # AI Career Portfolio
 
 Hi!
