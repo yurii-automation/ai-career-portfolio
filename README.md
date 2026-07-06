@@ -1,31 +1,51 @@
-# AI Career Portfolio
+# 🚀 AI Career Portfolio
 
-Hi!
+Welcome!
 
-My name is Yurii Vysotskyi.
+I'm Yurii Vysotskyi from Germany 🇩🇪.
 
-I am currently working at DHL in Germany and transitioning into AI and Software Development.
+Currently working at DHL while transitioning into Software Development and Artificial Intelligence.
 
-This repository contains all projects that I build during my learning journey.
+This repository documents my journey to becoming an AI Developer.
 
-## Goals
+## 🎯 Current Goals
 
 - Become Python Developer
 - Learn AI Automation
-- Build real projects
-- Find my first IT job
-
-## Tech Stack
+- Build 20 real-world projects
+- Get my first IT job
+  
+## 🛠 Tech Stack
 
 - Python
 - JavaScript
-- Next.js
 - React
+- Next.js
 - Git
 - REST API
 - OpenAI
 - Gemini
+- SQL
 
-## Projects
+## 📂 Repository Structure
+projects/
+docs/
+assets/
+notes/
+roadmap/
+certificates/
 
-Coming soon...
+
+## 🚧 Progress
+
+✅ Portfolio Repository
+
+⬜ Weather API
+
+⬜ Todo App
+
+⬜ AI Chatbot
+
+⬜ AI Translator
+
+⬜ Portfolio Website
